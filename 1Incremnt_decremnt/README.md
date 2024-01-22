@@ -1,1 +1,1 @@
-<img href="6.gif" alt="Increment decrement app">
+<img src="6.gif" alt="Increment decrement app">
