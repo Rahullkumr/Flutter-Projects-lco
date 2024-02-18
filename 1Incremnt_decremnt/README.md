@@ -1,4 +1,4 @@
-<h1 align=center>Flutter ❤</h1>
+<h1 align=center>Increment Decrement - Flutter ❤</h1>
 
 <div align=center>
 
@@ -9,8 +9,6 @@ Let's have a demo
 </div>
 
 ---
-
-## Increment Decrement app
 
 <img src="6.gif" alt="Increment decrement app">
 
