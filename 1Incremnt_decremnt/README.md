@@ -4,7 +4,7 @@
 
 Let's have a demo
 
-[![Demo](https://img.shields.io/badge/open%20in%20dartpad-orange?style=for-the-badge&logo=flutter&logoColor=blue)](https://dartpad.dev/f89cc324bfd1b7d9c93db1b085d304cc)
+[![Demo](https://img.shields.io/badge/open%20in%20dartpad-orange?style=for-the-badge&logo=flutter&logoColor=blue)](https://dartpad.dev/?id=f89cc324bfd1b7d9c93db1b085d304cc)
 
 </div>
 
